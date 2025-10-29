@@ -41,10 +41,10 @@
 ### 📂 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧁 [Bakery Website](https://github.com/yourusername/bakery-website) | Fully responsive bakery business website with menu and contact pages. | HTML, CSS, JS |
-| 🐍 [Python Automation Project](https://github.com/yourusername/python-automation) | Python script automating repetitive data tasks. | Python |
-| 📊 [Data Analysis App](https://github.com/yourusername/python-data-app) | Data visualization app using Python and Pandas. | Python, Pandas |
-| 💻 [Portfolio Website](https://github.com/yourusername/portfolio) | Personal portfolio showcasing design & development projects. | HTML, CSS, JS |
+| 🧁 [Bakery Website](https://github.com/Richiesams-dev/bakery-website) | Fully responsive bakery business website with menu and contact pages. | HTML, CSS, JS |
+| 🐍 [Python Automation Project](https://github.com/Richiesams-dev/python-automation) | Python script automating repetitive data tasks. | Python |
+| 📊 [Data Analysis App](https://github.com/Richiesams-dev/python-data-app) | Data visualization app using Python and Pandas. | Python, Pandas |
+| 💻 [Portfolio Website](https://github.com/Richiesams-dev/portfolio) | Personal portfolio showcasing design & development projects. | HTML, CSS, JS |
 
 ---
 
@@ -62,13 +62,13 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richmanbibowei&theme=tokyonight&margin-w=5&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Richiesams-dev&theme=tokyonight&margin-w=5&no-frame=true" />
 </p>
 
 ---
 
 ### 📈 Activity Graph
-[![Richman’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=richmanbibowei&bg_color=1a1b27&color=70a5fd&line=38bdae&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Richman’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Richiesams-dev&bg_color=1a1b27&color=70a5fd&line=38bdae&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -76,7 +76,7 @@
 <p align="center">
   <a href="mailto:richmanbibowei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/richman-bibowei-fedidel-200094275"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/richmanbibowei"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Richiesams-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
