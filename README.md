@@ -10,7 +10,7 @@
 💻 **Front-End Developer** passionate about building clean, accessible, and user-friendly digital experiences.  
 🌍 Based in **Benin, Edo, Nigeria**  
 ✨ Currently improving my skills in **React**, **Node.js**, and **RESTful APIs**  
-💡 “Code with purpose, design with empathy, and build with impact.”
+💡 "Code with purpose, design with empathy, and build with impact."
 
 ---
 
@@ -50,12 +50,12 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richmanbibowei&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richmanbibowei&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Richiesams-dev&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richiesams-dev&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=richmanbibowei&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Richiesams-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ---
 
 ### 📈 Activity Graph
-[![Richman’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Richiesams-dev&bg_color=1a1b27&color=70a5fd&line=38bdae&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Richman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Richiesams-dev&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -79,6 +79,4 @@
   <a href="https://github.com/Richiesams-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
-<h3 align="center">⭐ Thanks for visiting my GitHub! Let’s collaborate and build amazing things together 🚀</h3>
+---<h3 align="center">⭐ Thanks for visiting my GitHub! Let’s collaborate and build amazing things together 🚀</h3>
