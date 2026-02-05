@@ -62,7 +62,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Richiesams-dev&theme=tokyonight&margin-w=5&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Richiesams-dev&theme=tokyonight&margin-w=5&no-frame=true  " />
 </p>
 
 ---
